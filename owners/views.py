@@ -1,7 +1,7 @@
 import json
 
-from django.http     import JsonResponse
-from django.views    import View
+from django.http import JsonResponse
+from django.views import View
 from owners.models import Owner, Dog
 
 # Create your views here.
